@@ -6,9 +6,13 @@ Building an algorithm that best identifies potential donors.
 Machine learning application with scikit learn
 
 
-#Install
+# Install
+- Python 3.7
 - Numpy
 - Pandas
 - Matplotlib
 - scikit-learn
+
+# Files
+- Jupyter Notebook
 
